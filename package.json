@@ -1,0 +1,23 @@
+{
+  "name": "library-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KhazanovArtem/library-homework.git"
+  },
+  "author": "LowShilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhazanovArtem/library-homework/issues"
+  },
+  "homepage": "https://github.com/KhazanovArtem/library-homework#readme",
+  "dependencies": {
+    "@khazanovartem/ajs": "^1.0.0"
+  }
+}
